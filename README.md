@@ -63,18 +63,21 @@ The ABCD Model is a structured way to write strong learning objectives:
 
 <h2>📌 Examples of Well-Written Learning Objectives</h2>
 
-
 Here are some strong learning objectives across different topics:
-🌍 General Training Example
+
+<h4>🌍 General Training Example</h4>
 
 ✅ "By the end of this course, learners will be able to create a project plan using Microsoft Project, including task dependencies and deadlines, with 95% accuracy."
-💻 Technical Training Example
+
+<h4>💻 Technical Training Example</h4>
 
 ✅ "Given a dataset, learners will apply SQL queries to extract and manipulate data, achieving at least 85% correctness in query execution."
-🎨 Creative Skills Example
+
+<h4>🎨 Creative Skills Example</h4>
 
 ✅ "Using Adobe Photoshop, learners will design a social media post with appropriate text, imagery, and branding in under 30 minutes."
-🧑‍🏫 Instructional Design Example
+
+<h4>🧑‍🏫 Instructional Design Example</h4>
 
 ✅ "After completing this training, instructional designers will evaluate an existing eLearning course and suggest three improvements based on usability testing data."
 
