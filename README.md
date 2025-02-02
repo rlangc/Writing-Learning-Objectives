@@ -78,3 +78,9 @@ Here are some strong learning objectives across different topics:
 
     "Learners will write and debug JavaScript code to implement form validation."
     "Learners will configure a CI/CD pipeline for automated deployment."
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Additional-Projects-Section.git"><b>Return to Additional Projects Page</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
