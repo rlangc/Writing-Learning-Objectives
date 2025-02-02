@@ -6,27 +6,37 @@ Writing clear and effective learning objectives is crucial for designing engagin
 
 
 Learning objectives define what learners should be able to do after completing a course, module, or lesson. They help guide:
+
 ✔ Course design (ensuring content is relevant)
+
 ✔ Assessment development (measuring if learning happened)
+
 ✔ Learner expectations (clarity on what they’ll gain)
 
 <h2>🎯 How to Write Effective Learning Objectives</h2>
 
 A strong learning objective should be:
+
 ✅ Specific – Clearly state what learners will do
+
 ✅ Measurable – Can be assessed through a test, quiz, or performance
+
 ✅ Achievable – Realistic within the training scope
+
 ✅ Relevant – Tied to learner needs and job performance
+
 ✅ Time-bound – Can be completed within a given timeframe
 
 A popular framework for writing objectives is Bloom’s Taxonomy, which categorizes learning into six levels:
-Bloom’s Level	Cognitive Skill	Example Verbs
-Remember	Recall facts & concepts	Define, List, Identify, Describe
-Understand	Explain ideas	Summarize, Interpret, Explain, Compare
-Apply	Use knowledge in new situations	Implement, Solve, Use, Demonstrate
-Analyze	Break down information	Differentiate, Examine, Categorize
-Evaluate	Justify decisions & opinions	Assess, Defend, Critique, Recommend
-Create	Generate new ideas	Design, Develop, Construct, Produce
+
+| Bloom’s Level | Cognitive Skill | Example Verbs |
+|----------|----------|----------|
+| Remember   | Recall facts & concepts   | Define, List, Identify, Describe   |
+| Understand   | Explain ideas   | Summarize, Interpret, Explain, Compare   |
+| Apply   | Use knowledge in new situations   | Implement, Solve, Use, Demonstrate   |
+| Analyze   | Break down information   | Differentiate, Examine, Categorize   |
+| Evaluate   | Justify decisions & opinions   | Assess, Defend, Critique, Recommend   |
+| Create   | Generate new ideas   | Design, Develop, Construct, Produce   |
 
 <h2>🔹 Writing Objectives Using the ABCD Model</h2>
 
