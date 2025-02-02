@@ -42,20 +42,23 @@ A popular framework for writing objectives is Bloom’s Taxonomy, which categori
 
 The ABCD Model is a structured way to write strong learning objectives:
 
-    A = Audience → Who is learning?
-    B = Behavior → What will they do?
-    C = Condition → Under what circumstances?
-    D = Degree → How well must they perform?
+- A = Audience → Who is learning?
+- B = Behavior → What will they do?
+- C = Condition → Under what circumstances?
+- D = Degree → How well must they perform?
 
 <h3>✍ Example Objective Using ABCD Model</h3>
 
 ➡ Poor Example: "Learners will understand cybersecurity." (Too vague)
-➡ Improved Example:
-"Given a real-world phishing email, learners will identify three red flags and explain why they indicate a security threat with 90% accuracy."
+
+➡ Improved Example: "Given a real-world phishing email, learners will identify three red flags and explain why they indicate a security threat with 90% accuracy."
 
 ✅ Audience: Learners
+
 ✅ Behavior: Identify red flags and explain reasoning
+
 ✅ Condition: Given a phishing email
+
 ✅ Degree: 90% accuracy
 
 <h2>📌 Examples of Well-Written Learning Objectives</h2>
@@ -78,16 +81,19 @@ Here are some strong learning objectives across different topics:
 <h2>🚀 Common Mistakes to Avoid</h2>
 
 ❌ Too vague: "Learners will understand the topic."
+
 ✔ Fix: "Learners will explain three benefits of cloud computing in a written summary."
 
 ❌ Not measurable: "Learners will learn about Agile methodology."
+
 ✔ Fix: "Learners will compare Scrum and Kanban methodologies and determine which is better for a given project."
 
 ❌ Too complex for a single objective: "Learners will build, test, and deploy a web app."
+
 ✔ Fix: Break it down:
 
-    "Learners will write and debug JavaScript code to implement form validation."
-    "Learners will configure a CI/CD pipeline for automated deployment."
+- "Learners will write and debug JavaScript code to implement form validation."
+- "Learners will configure a CI/CD pipeline for automated deployment."
 
 <h2></h2>
 <p align="center">
