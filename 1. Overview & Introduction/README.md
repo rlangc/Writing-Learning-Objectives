@@ -1,0 +1,1 @@
+Start here to understand the purpose of this repository: to provide instructional designers, educators, and learning professionals with a comprehensive resource for writing measurable, effective learning objectives and applying evaluation frameworks across all phases of instructional design.
