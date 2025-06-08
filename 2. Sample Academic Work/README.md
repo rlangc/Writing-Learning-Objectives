@@ -1,0 +1,1 @@
+Explore a curated selection of academic work demonstrating how learning objectives are crafted, aligned, and evaluated within instructional design practice. These assignments showcase reflective theory-to-practice connections through graduate-level research and application.
