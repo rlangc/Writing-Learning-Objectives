@@ -1,0 +1,1 @@
+Gain insight into popular evaluation models used to assess learning effectiveness. This section explores foundational and advanced frameworks with examples and tools to apply them in course design, learning analysis, and outcome measurement.
