@@ -1,0 +1,1 @@
+These sample projects illustrate how well-constructed learning objectives are mapped to instructional strategies, assessments, and learning outcomes. Includes visual matrices and practical implementation cases for instructional designers.
