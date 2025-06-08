@@ -1,0 +1,1 @@
+This section breaks down established models and methods for writing learning objectives. It includes scaffolding tools to help designers match objectives to cognitive levels, instructional goals, and measurable outcomes.
